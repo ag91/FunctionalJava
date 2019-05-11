@@ -1,0 +1,12 @@
+* What is this repository?
+:PROPERTIES:
+:CREATED:  [2019-05-11 Sat 19:25]
+:END:
+
+This repository contains some code to show how Java can bend into the
+Functional Programming paradigm.
+
+** TODO add list of published blog posts and directories
+:PROPERTIES:
+:CREATED:  [2019-05-11 Sat 19:27]
+:END:

@@ -1,0 +1,1 @@
+Java code for blog post at https://lunatech.com/blog/XJn1kBIAAHbM_uPF/if-scala-is-functional-why-cannot-java
